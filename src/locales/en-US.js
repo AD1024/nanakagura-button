@@ -5,7 +5,8 @@ const en_US = {
         null: "Empty",
         audioStaff: "Audio Clip: mchong111 CatCoffee",
         toGithub: "Please participate in translation, add audio or make suggestions on Github:",
-        notOfficial: "This site is a fan work and is not associated with the hololive official."
+        notOfficial: "This site is a fan work and is not associated with the hololive official.",
+        qqGroup: "QQ IRC"
     },
     action: {
         toggleNavbar: "Toggle navigation bar",

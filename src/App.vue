@@ -25,6 +25,7 @@
                                 <li><a href="javascript:;" @click="chlang('zh-CN')">{{$t("lang.zh-CN")}}</a></li>
                                 <!--<li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>-->
                                 <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -39,7 +40,7 @@
             <div class="container-fluid footer-content">
                 <div class="pull-right">
                     <div class="text-right"><a href="https://github.com/biubiubiu23314/nanakagura-button" target="_blank">{{$t("info.toGithub")}} </a></div>
-                    <div class="text-right">{{$t("info.notOfficial")}}</div>
+                    <div class="text-right">{{$t("info.notOfficial")}} | {{$t("info.qqGroup")}}: 589314972</div>
                 </div>
                 <div>{{$t("info.audioStaff")}}</div>
                 <div>Asuka_bot 2019 <span style="color: rgba(0, 0, 0, 0.1)"></span></div>
